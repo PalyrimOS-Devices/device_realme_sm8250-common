@@ -1,3 +1,7 @@
+# Google Lens
+ro.com.google.lens.oem_camera_package=com.oplus.camera
+ro.com.google.lens.oem_image_package=com.oneplus.gallery
+
 # Framework detect
 ro.vendor.qti.va_odm.support=1
 
