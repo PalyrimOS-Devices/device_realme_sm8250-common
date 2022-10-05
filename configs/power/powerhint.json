@@ -438,7 +438,7 @@
     {
       "PowerHint": "LAUNCH",
       "Node": "PMQoSCpuDmaLatency",
-      "Duration": 3000,
+      "Duration": 5000,
       "Value": "44"
     },
     {
