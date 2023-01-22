@@ -1429,6 +1429,7 @@ vendor/lib64/libqmiservices.so
 # Radio
 odm/bin/oemnvbkdaemon
 odm/lib64/vendor.oplus.hardware.appradio@1.0.so
+odm/lib64/vendor.oplus.hardware.ims@1.0.so
 odm/lib64/vendor.oplus.hardware.radio@1.0.so
 system_ext/app/QtiTelephonyService/QtiTelephonyService.apk
 system_ext/etc/permissions/qcrilhook.xml
@@ -1444,12 +1445,14 @@ vendor/bin/init.mdm.sh
 vendor/bin/ks
 vendor/bin/mdm_helper
 vendor/bin/netmgrd
+vendor/bin/pd-mapper
 vendor/bin/port-bridge
 vendor/bin/qrtr-cfg
 vendor/bin/qrtr-lookup
 vendor/bin/qrtr-ns
 vendor/bin/qti
 vendor/bin/rmt_storage
+vendor/bin/shsusrd
 vendor/bin/ssgqmigd
 vendor/bin/ssgtzd
 vendor/bin/tftp_server
@@ -1463,6 +1466,7 @@ vendor/etc/init/ipacm-diag.rc
 vendor/etc/init/netmgrd.rc
 vendor/etc/init/port-bridge.rc
 vendor/etc/init/qcrild.rc
+vendor/etc/init/shsusrd.rc
 vendor/etc/init/ssgtzd.rc
 vendor/etc/init/vendor.qti.rmt_storage.rc
 vendor/etc/init/vendor.qti.tftp.rc
