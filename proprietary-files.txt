@@ -146,6 +146,7 @@ system/lib64/liblhdc.so|b8e88fc77386ca814dc56aea5c0ad2a0cc19119b
 system/lib64/liblhdcBT_enc.so|c211a8d0909fa4c0dbbf7ffd9b8ee0c56cd85c12
 
 # Camera
+odm/bin/vl53l1_daemon_main
 odm/etc/camera/aicolor/duallut_background.bmp
 odm/etc/camera/aicolor/duallut_portrait.bmp
 odm/etc/camera/ancsegbase/anc_cl_kernel.cache
@@ -724,6 +725,8 @@ odm/lib64/libmpbase.so
 odm/lib64/libop-ai-beauty-body-detection.so
 odm/lib64/libop-ai-beauty-faceretouch-cn.so
 odm/lib64/libormshalclient.so
+odm/lib64/libvl53l1_daemon.so
+odm/lib64/sensors.hal.tof.so
 odm/lib64/libosie_process.so
 odm/lib64/libosie_stub.so
 odm/lib64/libshdr_stub.so
